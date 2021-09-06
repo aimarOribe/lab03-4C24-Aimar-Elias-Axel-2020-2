@@ -8,4 +8,8 @@ public class Student {
         this.name = name;
         this.age = age;
     }
+
+    public void print(){
+        System.out.println("El nombre del estudiante es "+ this.name+ " y su edad es " + this.age);
+    }
 }
