@@ -3,5 +3,9 @@
   <groupId>com.tecsup.lab03</groupId>
   <artifactId>lab03-4C15-2021-2-AEA</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
 </project>
